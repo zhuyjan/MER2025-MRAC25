@@ -1,0 +1,1 @@
+This repository provides our <strong><font color="red">runner-up</font></strong> solution for [MER2025-SEMI challenge](https://zeroqiaoba.github.io/MER2025-website/) at ACM-MM 2025.
