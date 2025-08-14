@@ -1,0 +1,6 @@
+auto_attention:
+  train_input_mode: input
+  feat_type: utt
+  hidden_dim: 256
+  dropout: 0.2
+  grad_clip: -1.0
