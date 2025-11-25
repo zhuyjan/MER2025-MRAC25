@@ -58,10 +58,11 @@ valid_info = {
 ## Citation
 If you find this work useful for your research, please give us a star and use the following BibTeX entry for citation.
 ```
-@article{xie2025more,
-  title={More Is Better: A MoE-Based Emotion Recognition Framework with Human Preference Alignment},
+@inproceedings{xie2025more,
+  title={More is better: A moe-based emotion recognition framework with human preference alignment},
   author={Xie, Jun and Zhu, Yingjian and Chen, Feng and Zhang, Zhenghao and Fan, Xiaohui and Yi, Hongzhu and Wang, Xinming and Yu, Chen and Bi, Yue and Zhao, Zhaoran and others},
-  journal={arXiv preprint arXiv:2508.06036},
+  booktitle={Proceedings of the 3rd International Workshop on Multimodal and Responsible Affective Computing},
+  pages={2--7},
   year={2025}
 }
 ```
